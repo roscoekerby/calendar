@@ -1,6 +1,5 @@
 ### 📄 `README.md`
 
-````markdown
 # 🗓️ Parents Days Calendar Automation (Google Calendar API)
 
 This Python script adds **Mother's Day** (2nd Sunday in May) and **Father's Day** (3rd Sunday in June) to your **Google Calendar** for the next 100 years, and colours them **yellow** for easy identification.
