@@ -23,3 +23,4 @@ venv.bak/
 # Google API credentials and tokens
 credentials.json
 token.json
+token.pickle
