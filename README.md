@@ -30,8 +30,8 @@ You can also optionally remove old versions that were added without colour.
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/yourusername/parents-days-calendar.git
-cd parents-days-calendar
+git clone https://github.com/roscoekerby/calendar.git
+cd calendar
 ````
 
 ### 2. Install dependencies
